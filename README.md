@@ -1,2 +1,5 @@
-# periodic
-This isn't the Alphabet, These are the Elements of Innovation that make up the Periodic Table of our World"
+# Periodic
+
+A collection of ambitious sub-projects under MiDE's Project ATLAS program label.
+
+### Currently a work in progress (WIP) project.
